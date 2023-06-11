@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out to me via email at moses.okiror93@gmail.com or connect with me on LinkedIn.
 
 - LinkedIn: [Moses Okiror](https://www.linkedin.com/in/okiromosh)
-- Gmail: [Moses](moses.okiror93@gamil.com)
-- Phone: [Call OR Whatsapp](+256751420978)
+- Gmail: [moses.okiror93@gamil.com]
+- Phone: [+256751420978]
 
 
