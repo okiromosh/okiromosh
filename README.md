@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 
 ## 🧰 Technologies and Tools
 
-- Programming Languages: Python
+- Programming Languages: Python, Python(Django)
 - Web Technologies: HTML, CSS, JavaScript
-- Databases: MySQL
+- Databases: MySQL, PostgreSQL
 - Version Control: Git
 
-## 🌱 Current Projects
+## 🌱 Current Activity
 
-- 🚀 Project 1: Improving my understanding of Python and other languages.
-- 📊 Project 2: Creating a personal portfolio website to showcase my work and skills.
-- 🌐 Project 3: 
+- 🚀 Improving my understanding of Python and other languages.
+- 📊 Creating a personal portfolio website to showcase my work and skills.
+   
 
 ## 📫 Let's Connect
 
