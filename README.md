@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 ## 🧰 Technologies and Tools
 
 - Programming Languages: Python, Python(Django)
-- Web Technologies: HTML, CSS, JavaScript
+- Web Technologies: Wordpress, HTML, CSS, JavaScript
 - Databases: MySQL, PostgreSQL
 - Version Control: Git
 
